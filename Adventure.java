@@ -1,5 +1,3 @@
-// modify troll fight to add armour, shield
-
 // Great Adventure!
 // A bit like Zork (en.wikipedia.org/wiki/Zork) and Colossal Cave.
 // By Roland Waddilove (github.com/rwaddilove/) as an exercise while
