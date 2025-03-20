@@ -23,10 +23,6 @@ class Initialise {
         for (int[] i : itemLoc) {                   // random object locations
             i[0] = random.nextInt(maprows);
             i[1] = random.nextInt(mapcols); }
-        itemLoc[6][0] = 2;      // DELETE - SETS SILVER AND GOLD HERE
-        itemLoc[6][1] = 2;
-        itemLoc[8][0] = 2;
-        itemLoc[8][1] = 2;
         for (int i = 0; i < trolls.length; ++i) {   // random troll locations
             trolls[i] = new Player();
             do {
